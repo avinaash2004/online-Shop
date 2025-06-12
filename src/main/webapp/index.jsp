@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2 style="color: red;"><%= "Hello Avinaash " %></h2> 
+<h2 style="color: green;"><%= "Hello Avinaash " %></h2> 
 </body>
 </html>
